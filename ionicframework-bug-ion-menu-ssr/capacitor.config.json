@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionicframework-bug-ion-menu-ssr",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

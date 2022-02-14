@@ -1,0 +1,7 @@
+{
+  "name": "ionicframework-bug-ion-menu-ssr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
